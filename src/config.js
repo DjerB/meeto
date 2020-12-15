@@ -1,0 +1,2 @@
+export const APP_ID_CLIENT_ID = "0a0c9e74-59cd-4c91-8426-5a178d34b100";
+export const APP_ID_DISCOVERY_ENDPOINT = "https://eu-gb.appid.cloud.ibm.com/oauth/v4/79ef6e64-1508-4a95-b36b-85aaa06d2230/.well-known/openid-configuration";
